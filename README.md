@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&center=false&vCenter=true&duration=3000&pause=1000&color=C77DBB&witdh=600&height=100&repeat=true&lines=public class Seung {" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&center=false&vCenter=true&duration=3000&pause=10000&color=C77DBB&witdh=600&height=100&repeat=true&lines=public class Seung {" alt="Typing SVG" /></a>
 
 <!-- lang -->
 <!-- framework, library -->
@@ -10,4 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&username=miniato2&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&show_icons=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=C77DBB&count_private=true&username=miniato2&show_icons=true&theme=dracula)
