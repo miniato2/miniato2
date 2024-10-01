@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&center=false&vCenter=true&duration=3000&pause=1000&color=C77DBB&witdh=600&height=100&repeat=false&lines=public class Seung {" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&center=false&vCenter=true&duration=3000&pause=1000&color=C77DBB&witdh=600&height=100&repeat=true&lines=public class Seung {" alt="Typing SVG" /></a>
 
 <!-- lang -->
 <!-- framework, library -->
