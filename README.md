@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=40&center=false&vCenter=true&duration=3000&pause=10000&color=C77DBB&witdh=600&height=100&repeat=true&lines=public+class+Seung+{)](https://git.io/typing-svg)
 <!-- lang -->
-<!-- framework, library -->
+<!-- framework , library -->
 <!-- db -->
 <!-- tool -->
 [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)  
