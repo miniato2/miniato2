@@ -3,7 +3,7 @@
 <!-- framework , library -->
 <!-- db -->
 <!-- tool -->
-[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,js,kotlin)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=mysql,elasticsearch)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)  
