@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungWook&fontSize=80&fontColor=ffffff" align="center"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=40&center=false&vCenter=true&duration=3000&pause=10000&color=ffffff&witdh=600&height=100&repeat=true&lines=public+class+Seung+{)](https://git.io/typing-svg)
 
 <!-- lang -->
